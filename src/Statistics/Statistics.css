@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+
+.section{
+  width: 400px;
+  margin-left: 5%;
+  margin-top: 5%;
+  border: 1px solid black;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+  
+
+.Upload_stats_text{
+text-align: center;
+padding: 40px 20px 40px 20px ;
+font-size: 20px;
+}
+
+
+.item_conteiner{
+  display: flex;
+  justify-content: space-between;
+}
+
+.item_1{
+    width: 100px;
+    text-align: center;
+    padding-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+    border-top: 1px black solid;
+    border-right: 1px black solid;
+    background-color: rgb(80, 133, 248);
+
+
+}
+
+.item_2{
+    width: 100px;
+    text-align: center;
+    padding-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+    border-top: 1px black solid;
+    border-right: 1px black solid;
+    background-color: rgb(176, 58, 255);
+
+
+
+}
+
+.item_3{
+    width: 100px;
+    text-align: center;
+    padding-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+    border-top: 1px black solid;
+    border-right: 1px black solid;
+    background-color: rgb(247, 72, 180);
+
+
+}
+
+.item_4{
+    width: 100px;
+    text-align: center;
+    padding-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+    border-top: 1px black solid;
+    background-color: rgb(14, 82, 230);
+
+
+}
+
+.label{
+   padding-bottom: 5px;
+   padding-top: 15px;
+   color: rgb(255, 255, 255);
+}
+
+.percentage{
+    color: rgb(255, 255, 255);
+}
+
+
+
+
+
+
+
+
+
